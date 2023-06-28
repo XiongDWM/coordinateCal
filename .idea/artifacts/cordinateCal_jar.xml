@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cordinateCal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cordinateCal_jar</output-path>
+    <root id="archive" name="cordinate.jar">
+      <element id="module-output" name="cordinateCal" />
+    </root>
+  </artifact>
+</component>
